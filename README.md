@@ -27,5 +27,4 @@ Customization: Enhance the card style with different animations and transitions.
 To use this project, simply clone or download the repository, and open the index.html file in your browser.
 
 bash
-Copy
 git clone https://github.com/yourusername/testimonial-cards.git
